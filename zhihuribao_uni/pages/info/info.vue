@@ -40,19 +40,7 @@
 </script>
 
 <style>
-	.content {
-		padding: 10upx 2%;
-		width: 96%;
-		flex-wrap: wrap;
-	}
-
-	.title {
-		line-height: 2em;
-		font-weight: 700;
-		font-size: 38upx;
-	}
-	.art-content{
-		line-height: 1em;
-	}
+	
+	
 
 </style>
