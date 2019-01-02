@@ -1,3 +1,3 @@
 # zhihuribao_uni
-![知乎日报截图] (zhihuribao_uni/截图1.png);
-![知乎日报截图] (zhihuribao_uni/截图2.png);
+![截图1] (https://github.com/guapishuo/zhihuribao_uni/blob/master/截图1.png);
+![截图2] (https://github.com/guapishuo/zhihuribao_uni/blob/master/截图2.png);
